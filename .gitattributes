@@ -3,6 +3,7 @@
 *.cs diff=csharp text
 *.cginc text
 *.shader text
+*.mathematica text
 
 *.shader linguist-detectable=false
 *.cginc linguist-detectable=false
